@@ -1,0 +1,8 @@
+C:\dev\.NET\ChainOfResponsability\ChainOfResponsability\bin\Debug\netstandard2.0\ChainOfResponsability.deps.json
+C:\dev\.NET\ChainOfResponsability\ChainOfResponsability\bin\Debug\netstandard2.0\ChainOfResponsability.dll
+C:\dev\.NET\ChainOfResponsability\ChainOfResponsability\bin\Debug\netstandard2.0\ChainOfResponsability.pdb
+C:\dev\.NET\ChainOfResponsability\ChainOfResponsability\obj\Debug\netstandard2.0\ChainOfResponsability.AssemblyInfoInputs.cache
+C:\dev\.NET\ChainOfResponsability\ChainOfResponsability\obj\Debug\netstandard2.0\ChainOfResponsability.AssemblyInfo.cs
+C:\dev\.NET\ChainOfResponsability\ChainOfResponsability\obj\Debug\netstandard2.0\ChainOfResponsability.csproj.CoreCompileInputs.cache
+C:\dev\.NET\ChainOfResponsability\ChainOfResponsability\obj\Debug\netstandard2.0\ChainOfResponsability.dll
+C:\dev\.NET\ChainOfResponsability\ChainOfResponsability\obj\Debug\netstandard2.0\ChainOfResponsability.pdb
